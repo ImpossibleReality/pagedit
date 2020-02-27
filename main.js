@@ -1,2 +1,2 @@
-document.body.contentEditable = "true";
-document.designMode = "on";
+Document.body.contentEditable = "true";
+Document.designMode = "on";
