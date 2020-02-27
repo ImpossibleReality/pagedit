@@ -1,3 +1,3 @@
 Document.body.contentEditable = "true";
 Document.designMode = "on";
-alert("Pagedit is enabled! ")
+Window.alert("Pagedit is enabled! ")
